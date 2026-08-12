@@ -3,11 +3,6 @@
 오분추천은 해외 여행지 사진과 비슷한 감성을 지닌 국내 여행지를 추천하는 AI 기반 여행지
 추천 앱 서비스입니다.
 
-<img width="1920" height="1080" alt="오분추천 중간발표_5" src="https://github.com/user-attachments/assets/f5ba4540-6e30-43a8-991d-f2aabbaab18d" />
-<img width="1920" height="1080" alt="오분추천 중간발표_6" src="https://github.com/user-attachments/assets/650ff349-2c1c-4192-852f-614ac53f6ba0" />
-<img width="1920" height="1080" alt="오분추천 중간발표_7" src="https://github.com/user-attachments/assets/de8ad513-f94d-479d-a58a-c57b437ac39a" />
-
-
 ## 🔥 Commit Convention 
 
 - `Feat`: 새로운 기능을 추가한 경우
